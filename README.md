@@ -14,4 +14,5 @@ Une fois l'application lancée il suffit de renseigner le pseudo d'un joueur dan
 
 Par exemple on peut éssayer avec :
 
+<img src="http://puu.sh/u2QxN/e8615b168c.jpg"/>
 <img src="http://puu.sh/u2QsD/c303ce3f63.jpg"/>
