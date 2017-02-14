@@ -1,0 +1,8 @@
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#endif
+
+
+FOUNDATION_EXPORT double Pods_Ynov_LegendsUITestsVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_Ynov_LegendsUITestsVersionString[];
+
