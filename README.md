@@ -14,4 +14,28 @@ Une fois l'application lancée il suffit de renseigner le pseudo d'un joueur dan
 
 Par exemple on peut éssayer avec :
 
-------------<br>
+------------------------------------------<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+|                                        |<br>
+------------------------------------------<br>
